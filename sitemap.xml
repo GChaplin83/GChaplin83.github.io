@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main publications page -->
+  <url>
+    <loc>https://GChaplin83.github.io/</loc>
+  </url>
+
+  <!-- Individual papers -->
+
+  <url>
+    <loc>
+      https://GChaplin83.github.io/papers/response-field-gravity.html
+    </loc>
+  </url>
+
+  <url>
+    <loc>
+      https://GChaplin83.github.io/papers/scale-selective-coupling.html
+    </loc>
+  </url>
+
+  <url>
+    <loc>
+      https://GChaplin83.github.io/papers/gravitational-response-measurement.html
+    </loc>
+  </url>
+
+  <url>
+    <loc>
+      https://GChaplin83.github.io/papers/response-kernel-identification.html
+    </loc>
+  </url>
+
+  <url>
+    <loc>
+      https://GChaplin83.github.io/papers/geometric-curvature-susceptibility.html
+    </loc>
+  </url>
+
+  <url>
+    <loc>
+      https://GChaplin83.github.io/papers/consciousness-attribution-constraints.html
+    </loc>
+  </url>
+
+</urlset>
+
